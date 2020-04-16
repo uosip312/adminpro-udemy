@@ -1,4 +1,4 @@
-import { NgModule } from "@angular/core";
+import { NgModule } from '@angular/core';
 
 // Componentes
 import { HeaderComponent } from './header/header.component';
